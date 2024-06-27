@@ -5,7 +5,7 @@
 
 - 👯 I’m looking to collaborate on [Library Management System](https://github.com/oziico/LibraryManagementSystemProjectInPython)
 
-- 💬 Ask me about **HTML,CSS,JS,React.JS,Bootstrap**
+- 💬 Ask me about **HTML,CSS,JS,Bootstrap**
 
 - 📫 How to reach me **yigituruk@hotmail.com**
 
